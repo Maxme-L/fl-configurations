@@ -12,7 +12,9 @@ Ce dépôt contient des configurations de références ainsi que des configurati
 
 Les étapes suivantes résument l'installation du framework. Pour plus de détails concernant l'installation, veuillez vous référer au dépôt du framework (https://github.com/antonio-boiano/FederNet)
 
-> [! CAUTION] Pour utiliser ce framework, il est nécessaire de l'installer sur une machine sous Ubuntu. Pour plus de précisions, voir le [dépôt du framework](https://github.com/antonio-boiano/containernet)  
+> [!IMPORTANT]
+> Pour utiliser ce framework, il est nécessaire de l'installer sur une machine sous Ubuntu. Pour plus de précisions, voir le [dépôt du framework](https://github.com/antonio-boiano/containernet)  
+
 > Prérequis : **Docker**, **Python 3.7+**, **ContainerNet** (pour l'installation de containernet, se référer au dépôt suivant : https://github.com/antonio-boiano/containernet)
 
 Cloner le dépôt de FederNet :
